@@ -7,3 +7,4 @@ A clipboard for GNOME's top bar which stays in the system tray to reduce clutter
 3) Open terminal inside that folder (Ctrl + .)
 4) Run : gnome-extensions install --force "clipboard-qs@local.zip"
 5) Log out and log back in
+6) Enable the extension from extension manager
